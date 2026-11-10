@@ -2,7 +2,7 @@
 Sistema integrado C# e MySQL, atividade de Linguagem de Programação 1.
 
 ## Setup SQL 
-1. Abrir o XAMPP e iniciar o serivor MySQL
+1. Abrir o XAMPP e iniciar o serivdor MySQL
 2. Criar servidor localhost sem senha no MySQL Workbench
 3. Executar o script SQL para gerar as tabelas
 
