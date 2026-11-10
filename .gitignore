@@ -1,0 +1,30 @@
+## Visual Studio / .NET
+[Oo]bj/
+[Bb]in/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Configurações e Credenciais Sensíveis (MySQL)
+# É altamente recomendado não subir arquivos de conexão ou app.settings com senha real
+appsettings.json
+*.config.user
+ConnectionStrings.config
+
+## Arquivos de Build e Pacotes NuGet
+[Ll]og/
+[Ll]ogs/
+[Bb]ackup/
+_ReSharper*/
+*.resharper
+[Tt]est[Rr]esult*/
+packages/
+*.nupkg
+
+## Arquivos do Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
